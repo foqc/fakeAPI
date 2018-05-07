@@ -1,6 +1,7 @@
 {
   "books": [
     {
+      "id": 1,
       "isbn": "45815934875815",
       "title": "Eloquent JavaScript, Second Edition",
       "subtitle": "A Modern Introduction to Programming",
@@ -13,6 +14,7 @@
       "cover": "https://olcovers2.blob.core.windows.net/coverswp/2015/05/Eloquent-Javascript-2nd-OpenLibra.jpg"
     },
     {
+      "id": 2,
       "isbn": "9781449331818",
       "title": "Learning JavaScript Design Patterns",
       "subtitle": "A JavaScript and jQuery Developer's Guide",
@@ -25,6 +27,7 @@
       "cover": "https://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg"
     },
     {
+      "id": 3,
       "isbn": "9781449365035",
       "title": "Speaking JavaScript",
       "subtitle": "An In-Depth Guide for Programmers",
@@ -37,6 +40,7 @@
       "cover": "https://covers.oreillystatic.com/images/0636920029564/lrg.jpg"
     },
     {
+      "id": 4,
       "isbn": "9781491950296",
       "title": "Programming JavaScript Applications",
       "subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
@@ -49,6 +53,7 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/I/512Hli3f6FL._SX379_BO1,204,203,200_.jpg"
     },
     {
+      "id": 5,
       "isbn": "9781593277574",
       "title": "Understanding ECMAScript 6",
       "subtitle": "The Definitive Guide for JavaScript Developers",
@@ -61,6 +66,7 @@
       "cover": "https://images.gr-assets.com/books/1456191495l/23253178.jpg"
     },
     {
+      "id": 6,
       "isbn": "9781491904244",
       "title": "You Don't Know JS",
       "subtitle": "ES6 & Beyond",
@@ -73,6 +79,7 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/G/33/aplusautomation/vendorimages/4c2e2f5f-0053-4be2-baa9-39b99bffd737.jpg._CB294839062__SL300__.jpg"
     },
     {
+      "id": 7,
       "isbn": "9781449325862",
       "title": "Git Pocket Guide",
       "subtitle": "A Working Introduction",
@@ -85,6 +92,7 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/I/41DP1fmJ5gL._SX302_BO1,204,203,200_.jpg"
     },
     {
+      "id": 8,
       "isbn": "9781449337711",
       "title": "Designing Evolvable Web APIs with ASP.NET",
       "subtitle": "Harnessing the Power of the Web",
