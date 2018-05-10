@@ -117,62 +117,62 @@
     {
       "id": 0,
       "name": "yellow",
-      "hex": "#ffff00",
+      "hex": "#ffff00"
     },
     {
       "id": 1,
       "name": "wheat",
-      "hex": "#f5deb3",
+      "hex": "#f5deb3"
     },
     {
       "id": 2,
       "name": "tomato",
-      "hex": "#ff6347",
+      "hex": "#ff6347"
     },
     {
       "id": 3,
       "name": "teal",
-      "hex": "#008080",
+      "hex": "#008080"
     },
     {
       "id": 4,
       "name": "steelblue",
-      "hex": "#4682b4",
+      "hex": "#4682b4"
     },
     {
       "id": 5,
       "name": "seashell",
-      "hex": "#fff5ee",
+      "hex": "#fff5ee"
     },
     {
       "id": 6,
       "name": "red",
-      "hex": "#ff0000",
+      "hex": "#ff0000"
     },
     {
       "id": 7,
       "name": "purple",
-      "hex": "#800080",
+      "hex": "#800080"
     },
     {
       "id": 8,
       "name": "magenta",
-      "hex": "#ff00ff",
+      "hex": "#ff00ff"
     },
     {
       "id": 9,
       "name": "khaki",
-      "hex": "#f0e68c",
+      "hex": "#f0e68c"
     },
     {
       "id": 10,
       "name": "green",
-      "hex": "#008000",
+      "hex": "#008000"
     },
     {
       "id": 11,
       "name": "blue",
-      "hex": "#0000ff",
+      "hex": "#0000ff"
     }
   ]
 }
